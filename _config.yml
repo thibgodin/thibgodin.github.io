@@ -1,12 +1,12 @@
 # Dependencies
 markdown:	kramdown
 kramdown:
-  	extensions: ["tables"]
+#  	extensions: ["tables"]
 
 highlighter:	true
 
 # Permalinks
-#permalink:	pretty
+permalink:	pretty
 
 # Setup
 title:	Thibault Godin
