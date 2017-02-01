@@ -1,7 +1,7 @@
 # Dependencies
 markdown:         kramdown
 kramdown:
-  extensions: ["tables"]
+  	extensions: ["tables"]
 
 highlighter:         true
 
@@ -15,7 +15,7 @@ url:              http://thibgodin.github.io
 shorturl:         thibgodin.github.io
 
 author:
-  name:           'Thibault Godin'
+  	name:           'Thibault Godin'
 
 paginate:         1
 
@@ -23,15 +23,15 @@ paginate:         1
 version:          1.0.0
 
 github:
-  repo:           github.com/thibgodin/thibgodin.github.io
+  	repo:           github.com/thibgodin/thibgodin.github.io
 
 # This is the list of pages to include in the header of the website.
 pages_list:
-  About: '/about/'
-  Archive: '/docs/'
+  	About: '/about/'
+  	Archive: '/docs/'
 
 # Allow URL Redirects:
 #  * https://help.github.com/articles/redirects-on-github-pages
 gems:
-  - jekyll-redirect-from
-- jekyll-paginate
+  	- jekyll-redirect-from
+	- jekyll-paginate
