@@ -1,29 +1,29 @@
 # Dependencies
-markdown:         kramdown
+markdown:	kramdown
 kramdown:
   	extensions: ["tables"]
 
-highlighter:         true
+highlighter:	true
 
 # Permalinks
-permalink:        pretty
+permalink:	pretty
 
 # Setup
-title:            Thibault Godin
-tagline:          'Theoretical Computer Science: automaton groups, tilings, games...'
-url:              http://thibgodin.github.io
-shorturl:         thibgodin.github.io
+title:	Thibault Godin
+tagline:	'Theoretical Computer Science: automaton groups, tilings, games...'
+url:	http://thibgodin.github.io
+shorturl:	thibgodin.github.io
 
 author:
-  	name:           'Thibault Godin'
+  	name:	'Thibault Godin'
 
-paginate:         1
+paginate:	1
 
 # Custom vars
-version:          1.0.0
+version:	1.0.0
 
 github:
-  	repo:           github.com/thibgodin/thibgodin.github.io
+  	repo:	github.com/thibgodin/thibgodin.github.io
 
 # This is the list of pages to include in the header of the website.
 pages_list:
