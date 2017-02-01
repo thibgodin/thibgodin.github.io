@@ -14,10 +14,6 @@ F-75013 Paris
 Office **4060**
 
 
-<div class="blurb">
-	<h1>Under construction</h1>
-	<p>PhD student at <em> IRIF</em> . <a href="https://www.irif.fr/~klimann/MealyM/index.php?page=accueil"> Project MealyM</a></p>
-</div><!-- /.blurb -->
 
 
 powered by [Jekyll](http://jekyllrb.com)
