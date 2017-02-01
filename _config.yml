@@ -9,13 +9,13 @@ highlighter:         true
 permalink:        pretty
 
 # Setup
-title:            Finn Völkel
-tagline:          'Programming, Algorithms, Graph Theory and other stuff'
-url:              http://FiV0.github.io
-shorturl:         FiV0.github.io
+title:            Thibault Godin
+tagline:          'Theoretical Computer Science: automaton groups, tilings, games...'
+url:              http://thibgodin.github.ioc
+shorturl:         thibgodin.github.io
 
 author:
-  name:           'Finn Völkel'
+  name:           'Thibault Godin'
 
 paginate:         1
 
@@ -23,12 +23,12 @@ paginate:         1
 version:          1.0.0
 
 github:
-  repo:           github.com/FiV0/FiV0.github.io
+  repo:           github.com/thibgodin/thibgodin.github.io
 
 # This is the list of pages to include in the header of the website.
 pages_list:
   About: '/about/'
-  Archive: '/archive/'
+  Archive: '/docs/'
 
 # Allow URL Redirects:
 #  * https://help.github.com/articles/redirects-on-github-pages
