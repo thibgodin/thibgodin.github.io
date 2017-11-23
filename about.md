@@ -46,7 +46,7 @@ Office **4060**
 
 
 
-     -[http://arxiv.org/abs/1604.07736](Boundary action of automaton groups without singular points and Wang tilings) //avec/with // Daniele d'Angeli, Ines Klimann, Matthieu Picantin & Emanuele Rodaro, **2016**.
+     - [http://arxiv.org/abs/1604.07736](Boundary action of automaton groups without singular points and Wang tilings) //avec/with // Daniele d'Angeli, Ines Klimann, Matthieu Picantin & Emanuele Rodaro, **2016**.
 
 ## Slides, Poster ##
      - {{:users:godin:mealyaut_godin.pdf|Slides}} pour l'article **Boundary action of automaton groups without singular points and Wang tilings **, présenté à la semaine 2 de Transversal aspects of Tilings, en 2016 à Oléron.
