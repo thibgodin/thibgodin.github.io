@@ -31,6 +31,7 @@ pages_list:
   Archive: '/archive/'
   Enseignement: '/teaching/'  
   Research: '/research/'
+  Diffusion: '/diffusion/'
   Docs: '/docs/'
 
 # Allow URL Redirects:
