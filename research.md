@@ -1,3 +1,6 @@
+
+[DBLP page](https://dblp.org/pid/153/1880.html)
+
 __Thématiques__ : Groupe d'automates, génération aléatoire de groupes, 
 et de manière plus générale, informatique théorique et mathématiques discrètes, en particulier théorie des automates, pavages, théorie des jeux.
 
