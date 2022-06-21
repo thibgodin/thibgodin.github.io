@@ -1,3 +1,20 @@
-This is the personal website of Thibault Godin.
+---
+layout: default
+title: Home
+---
 
-It is mainly a clone of Joshua Lande's page which can be found at https://github.com/joshualande/joshualande.github.io , via Finn Völkel's page [GitHub Pages](http://pages.github.com), https://FiV0.github.io.
+
+_thibault.godin [at] univ-ubs.fr_
+
+Enseignant en mathématiques/informatique à l'IUT de Vannes (département informatique) et à l'ENSIBS
+
+
+**_Thématiques_** :
+
+
+**enseignement** : Théorie (algébrique) des graphes, théorie des langages et automates, méthodes numériques et optimisation, statistiques et analyse de données, probabilité, logique
+
+**recherche** : _Groupe d'automates, génération aléatoire et croissance de groupes_, et de manière plus générale,  informatique théorique et mathématiques discrètes, en particulier théorie des automates, pavages, théorie des jeux.
+
+
+
