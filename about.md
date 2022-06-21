@@ -1,3 +1,7 @@
+---
+layout: default
+title: About
+---
 
 _thibault.godin [at] univ-ubs.fr_
 

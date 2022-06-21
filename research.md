@@ -1,3 +1,8 @@
+---
+layout: default
+title: Research
+---
+
 
 [DBLP page](https://dblp.org/pid/153/1880.html)
 
