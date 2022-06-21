@@ -32,7 +32,7 @@ pages_list:
   Enseignement: '/teaching/'  
   Research: '/research/'
   Diffusion: '/diffusion/'
-  Docs: '/docs/'
+  #Docs: '/docs/'
 
 # Allow URL Redirects:
 #  * https://help.github.com/articles/redirects-on-github-pages
