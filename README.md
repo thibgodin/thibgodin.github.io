@@ -1,9 +1,3 @@
----
-layout: default
-title: Home
----
-
-
 _thibault.godin [at] univ-ubs.fr_
 
 Enseignant en mathématiques/informatique à l'IUT de Vannes (département informatique) et à l'ENSIBS
