@@ -27,7 +27,7 @@ github:
 
 # This is the list of pages to include in the header of the website.
 pages_list:
-  #About: '/about/'
+  About: '/about/'
   Archive: '/archive/'
   Enseignement: '/teaching/'  
   Research: '/research/'
