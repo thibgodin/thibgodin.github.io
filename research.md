@@ -25,7 +25,7 @@ et de manière plus générale, informatique théorique et mathématiques discr�
 -<a href="\href{https://doi.org/10.1142/s021819672050006x" target="_blank"> Boundary dynamics for bireversible and for contracting automaton groups}}</a> <i> avec/with </i> D.~D'Angeli, I.~Klimann, M.~Picantin, et E.~Rodaro, <b><i> International Journal of Algebra and Computation, vol. 30, no. 2, 2020 </i></b>
 -<a href="http://www.sciencedirect.com/science/article/pii/S0304397517307107?via%3Dihub" target="_blank">On bireversible Mealy automata and the Burnside problem</a> <i>avec/with </i> Ines Klimann ; <b><i>Theoretical Computer Science 2018</i></b>,<a href="https://dblp.org/rec/journals/tcs/GodinK18">[bibtex]</a>.
 <br>
-<br> 
+
 <h4> Conference: </h4>
 <br>
 
@@ -37,26 +37,25 @@ et de manière plus générale, informatique théorique et mathématiques discr�
 
 <br>
 <br>
-<br>
 <h3> Preprints and Work in progress </h3>
 <br>
 
 Dahmani group is linear-contracting <i>Appendice à un article en préparation de</i> J.~Brieussel et T.~Zheng
 -<a href="http://arxiv.org/abs/1604.07736" target="_blank">Boundary action of automaton groups without singular points and Wang tilings</a>  <i>avec/with </i> Daniele d'Angeli, Ines Klimann, Matthieu Picantin & Emanuele Rodaro.
-<br><br>
+<br>
+<br>
 <h3> Thesis: </h3>
 <br>
 -<a href="https://tel.archives-ouvertes.fr/tel-01659453" target="_blank">manuscript</a>  <i>soutenue/defended</i> on the 13th of July <a href="./fichier/soutenance.pdf">(slides)</a>.
 
-<br><br><br>
-
+<br>
+<br>
 <h3> Slides, Posters: </h3>
 <br>
 -<a href="./fichier/poster_en.pdf" target="_blank">poster</a> summarizing the links between reversibility and the Burnside problem <a href="./fichier/poster_fr.pdf">(version en français)</a>.<br>
 
-<br><br><br>
-
-
+<br>
+<br>
 <h4> Reviewer:</h4>
 
 I was a reviewer for  <a href="http://logic.pdmi.ras.ru/csr2016/" target="_blank">CSR</a>, <a href="http://www.stacs-conf.org/" target="_blank"> STACS</a>, <a href=" http://mfcs2017.cs.aau.dk/" target="_blank">MFCS</a> and <a href="http://www.editorialmanager.com/tocs/default.aspx" target="_blank">ToCS </a>
@@ -68,8 +67,8 @@ I was a reviewer for  <a href="http://logic.pdmi.ras.ru/csr2016/" target="_blank
 <h4> Implementation:</h4>
 <br>
 -<a href="https://www.irif.fr/~godin/automatongrowth.html" target="_blank"> Numerical upper bounds on growth of automata groups  <i>Code GAP</i>
-<br><br><br>
-</div>
+
+
 
 
 
