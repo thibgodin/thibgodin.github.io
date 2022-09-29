@@ -23,7 +23,7 @@ title: Teaching
 ### BUT3
 
 
--b_Méthodes d'optimisation pour l'aide à la décision_
+- _Méthodes d'optimisation pour l'aide à la décision_
 
 
 
