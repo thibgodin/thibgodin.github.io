@@ -10,27 +10,27 @@ title: Teaching
 
 ## IUT Vannes
 
-###BUT1
+### BUT1
 
-_Analyse et méthodes numériques_
+- _Analyse et méthodes numériques_
 
-###BUT2
+### BUT2
 
-_Méthodes d'optimisation_
-_Automates et langages_
-
-
-###BUT3
+- _Méthodes d'optimisation_
+- _Automates et langages_
 
 
-_Méthodes d'optimisation pour l'aide à la décision_
+### BUT3
+
+
+-b_Méthodes d'optimisation pour l'aide à la décision_
 
 
 
 ## ENSIBS
 
-_Calcul Matriciel_ (théorie algébrique des graphes/network sicence)
+- _Calcul Matriciel_ (théorie algébrique des graphes/network sicence)
 
 ## Minicours
 
-_A brief and biased introduction to geometric group theory_
+- _A brief and biased introduction to geometric group theory_
