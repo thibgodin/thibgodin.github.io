@@ -19,11 +19,11 @@ et de manière plus générale, informatique théorique et mathématiques discr�
 <br>
 <h4> Journal: </h4>
 <br>			
--<a href="hhttps://doi.org/10.1142/S0218196722500072" target="_blank"> Numerical upper bounds on growth of automaton groups</a> <i> avec/with </i> J.~Brieussel, et B.~Mohammadi, n ; <b><i> International Journal of Algebra and Computation, vol. 32,  2021</i></b>
+-<a href="hhttps://doi.org/10.1142/S0218196722500072" target="_blank"> Numerical upper bounds on growth of automaton groups</a> <i> avec/with </i> J. Brieussel, et B. Mohammadi ; <b><i> International Journal of Algebra and Computation, vol. 32,  2021</i></b>
 
--<a href="https://doi.org/10.1142/S0129054120420046" target="_blank"> A new hierarchy for automaton semigroups</a> <i> avec/with </i>   L.~Bartholdi, I.~Klimann, et M.~Picantin<b><i> , <b><i> International Journal of Foundations of Computer Science, vol. 31,  2020</i></b>
+-<a href="https://doi.org/10.1142/S0129054120420046" target="_blank"> A new hierarchy for automaton semigroups</a> <i> avec/with </i>   L. Bartholdi, I. Klimann, et M. Picantin<b><i> , <b><i> International Journal of Foundations of Computer Science, vol. 31,  2020</i></b>
 
--<a href="\href{https://doi.org/10.1142/s021819672050006x" target="_blank"> Boundary dynamics for bireversible and for contracting automaton groups}}</a> <i> avec/with </i> D.~D'Angeli, I.~Klimann, M.~Picantin, et E.~Rodaro, <b><i> International Journal of Algebra and Computation, vol. 30, no. 2, 2020 </i></b>
+-<a href="\href{https://doi.org/10.1142/s021819672050006x" target="_blank"> Boundary dynamics for bireversible and for contracting automaton groups}}</a> <i> avec/with </i> D. D'Angeli, I. Klimann, M.Picantin, et E. Rodaro, <b><i> International Journal of Algebra and Computation, vol. 30, no. 2, 2020 </i></b>
 
 -<a href="http://www.sciencedirect.com/science/article/pii/S0304397517307107?via%3Dihub" target="_blank">On bireversible Mealy automata and the Burnside problem</a> <i>avec/with </i> Ines Klimann ; <b><i>Theoretical Computer Science 2018</i></b>,<a href="https://dblp.org/rec/journals/tcs/GodinK18">[bibtex]</a>.
 <br>
