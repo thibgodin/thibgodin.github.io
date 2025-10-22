@@ -9,6 +9,8 @@ title: Research
 __Thématiques__ : Groupe d'automates, génération aléatoire et croissance de groupes, 
 et de manière plus générale, informatique théorique et mathématiques discrètes, en particulier théorie des automates, pavages, théorie des jeux.
 
+A (gentle) introduction to my PhD can be found on the (former?) website of the [IRIF's seminaire doctorant](https://semidoc.github.io/godin-mealy)
+
 
 <h2 class="a"> Research </h2>
 <br>
