@@ -8,6 +8,9 @@ J'essaie de participer à la diffusion  des mathématiques et de l'informatique
 
 [Encore plus de nœuds](http://images.math.cnrs.fr/Une-famille-infinie-de-noeuds-II.html)
 
+## Ma thèse
+
+Une introduction à ma [thèse](https://semidoc.github.io/godin-mealy) pour le séminaire doctorant de l'IRIF (en anglais)
 
 ## Atelier
 
