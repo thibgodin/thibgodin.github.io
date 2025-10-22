@@ -39,3 +39,8 @@ title: Teaching
 ## Minicours
 
 - _A brief and biased introduction to geometric group theory_
+
+
+
+**_pour les enseignant⋅es :_**
+Toutes les sources .tex et les corrigés des TP peuvent être partagées sur demande par mail
