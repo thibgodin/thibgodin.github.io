@@ -12,18 +12,23 @@ title: Teaching
 
 ### BUT1
 
-- _Analyse et méthodes numériques_
+- _Théorie des graphes_ R2.07
+- _Analyse et méthodes numériques_ R2.09
 
 ### BUT2
 
-- _Méthodes d'optimisation_
-- _Automates et langages_
+
+- _Probabilités_ R3.08
+- _Cryptographie_ R3.09 (resp. L. Naert)
+- _Méthodes d'optimisation_ R4.04
+- _Automates et langages_ R4.A.12
 
 
 ### BUT3
 
 
-- _Méthodes d'optimisation pour l'aide à la décision_
+- _[Méthodes d'optimisation pour l'aide à la décision](R5-A-12-Optimisation/descriptif.md)_ R5.A.11
+- _Modélisation mathématique_ R5.A.11 (resp. L. Naert)
 
 
 
