@@ -28,7 +28,7 @@ title: Teaching
 
 
 - _[Méthodes d'optimisation pour l'aide à la décision](R5-A-11-Optimisation/descriptif.md)_ R5.A.11
-- _Modélisation mathématique_ R5.A.11 (resp. L. Naert)
+- _Modélisation mathématique_ R5.A.12 (resp. L. Naert)
 
 
 
