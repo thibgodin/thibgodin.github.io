@@ -21,6 +21,6 @@ On trouvera un cours pour l’optimisation linéaire et le recuit simulé, et de
 
 #### Cours
 
- - [CM Optimisation linéaire](R5-A-11-Optimisation/R5.A.11_CM1.pdf)
- - [CM Recuit Simulé](R5-A-11-Optimisation/R5.A.11_CM2.pdf)
+ - [CM Optimisation linéaire](./R5.A.11_CM1.pdf)
+ - [CM Recuit Simulé](./R5.A.11_CM2.pdf)
 
