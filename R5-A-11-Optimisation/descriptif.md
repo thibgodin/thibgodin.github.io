@@ -17,3 +17,10 @@ Le but de ce cours est de présenter plusieurs méthodes, stratégies et heurist
  - les algorithmes probabilistes
 
 On trouvera un cours pour l’optimisation linéaire et le recuit simulé, et des notesbooks pour chacun des thèmes
+
+
+#### Cours
+
+ - [CM Optimisation linéaire](R5-A-11-Optimisation/R5.A.11_CM1.pdf)
+ - [CM Recuit Simulé](R5-A-11-Optimisation/R5.A.11_CM2.pdf)
+
