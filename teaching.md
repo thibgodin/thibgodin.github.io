@@ -44,3 +44,7 @@ title: Teaching
 
 **_pour les enseignant⋅es :_**
 Toutes les sources .tex et les corrigés des TP peuvent être partagées sur demande par mail
+
+
+**_pour tous et toutes :_**
+ Les remarques, commentaires et corrections sont les bienvenues
