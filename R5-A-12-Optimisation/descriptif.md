@@ -1,3 +1,8 @@
+---
+layout: default
+title: R5.A.12 Optimisation
+---
+
 ## R5.A.12 Optimisation
 
 Le but de ce cours est de présenter plusieurs méthodes, stratégies et heuristiques génériques pour résoudre des problèmes d'optimisation (c-a-d cherchant à maximiser ou minimiser une valeur).
